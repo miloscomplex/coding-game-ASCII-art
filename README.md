@@ -1,4 +1,4 @@
-#a coding-game-ASCII-art
+### a coding-game-ASCII-art
 In stations and airports you often see this type of screen:
 
 Have you ever asked yourself how it might be possible to simulate this display on a good old terminal? We have: with ASCII art!
